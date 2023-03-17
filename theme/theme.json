@@ -3,7 +3,7 @@
     "author": "the_bukkit",
     "version": "v1.0",
     "manifest_version": 5,
-    "description": "Allows customization of the blur effect",
+    "description": "Allows for changing the opacity and blur strength",
     "target": "Tweak",
     "inject": {
         "shared.css": ["SP"]
