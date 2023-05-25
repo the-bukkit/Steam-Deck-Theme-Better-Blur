@@ -1,7 +1,7 @@
 {
     "name": "Better Blur",
     "author": "the_bukkit",
-    "version": "v1.0",
+    "version": "v1.1",
     "manifest_version": 5,
     "description": "Allows for changing the opacity and blur strength",
     "target": "Tweak",
