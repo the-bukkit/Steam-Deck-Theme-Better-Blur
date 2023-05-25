@@ -2,5 +2,8 @@
 
 Allows for changing the opacity and blur strength in the Steam Deck UI.
 
+This includes the blur effect for the side panels and context menus.
 
-![Preview](/preview.jpg)
+
+![Side Panel](/preview.jpg)
+![Context Menu](/preview2.jpg)
